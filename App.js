@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import HTMLView from 'react-native-htmlview';
 
 export default function App() {
-  const htmlContent = 'This is a sentence <b>with</b> one word in bold';
+  const htmlContent = '<i>Desenvolvimento para Dispositiveis Moveis II</i>';
   return (
     <View style={styles.container}>
       <Text>3º Info - 2024</Text>
